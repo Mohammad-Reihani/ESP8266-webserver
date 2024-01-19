@@ -22,9 +22,14 @@ In this version, I experimented with a basic web server for the ESP8266 hardware
 
 ### Future Plans
 
-In upcoming versions, the focus will be on exploring practical applications of ESP8266 web servers, investigating the existence of frameworks, and assessing the feasibility of streaming a camera feed. Additionally, considerations for implementing authentication will be explored.
+- Exploring practical applications of ESP8266 web servers 
+- Investigating the existence of frameworks
+- Assessing the feasibility of streaming a camera feed.
+- Considerations for implementing authentication will be explored.
 
 Stay tuned for more updates and improvements!
+
+
 
 ## Version 0.2.0
 
